@@ -1,0 +1,16 @@
+.info {
+  background-color: #000;
+}
+
+.info__box {
+  display: flex;
+  color: $access-color;
+}
+
+a {
+  color: $primary-text-color;
+}
+
+.info__social {
+  display: flex;
+}
